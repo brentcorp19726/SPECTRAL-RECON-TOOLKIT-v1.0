@@ -3,8 +3,8 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║   SPECTRAL RECON TOOLKIT v1.0                                ║
 ║   Web Penetration Testing & Reconnaissance Suite             ║
-║   Author: R1z4l                                    ║
-║   ----------------------------------------------------------║
+║   Author: R1z4l | DPH 2008                                   ║
+║   ---------------------------------------------------------- ║
 ║   For authorized security testing only.                      ║
 ║   You break it, you bought it. Don't be stupid.              ║
 ╚══════════════════════════════════════════════════════════════╝
